@@ -1,0 +1,31 @@
+D:\X FACTOR CR KARTIK\ASSIGNMENT 1>javac division.java
+
+D:\X FACTOR CR KARTIK\ASSIGNMENT 1>java Division
+Enter numerator : 120
+Enter denominator : 67
+1
+
+D:\X FACTOR CR KARTIK\ASSIGNMENT 1>java Division
+Enter numerator : 230
+Enter denominator : 9
+25
+
+D:\X FACTOR CR KARTIK\ASSIGNMENT 1>java Division
+Enter numerator : 84
+Enter denominator : 90
+0
+
+D:\X FACTOR CR KARTIK\ASSIGNMENT 1>java Division
+Enter numerator : 20948
+Enter denominator : 23
+910
+
+D:\X FACTOR CR KARTIK\ASSIGNMENT 1>java Division
+Enter numerator : -947
+Enter denominator : 8
+-118
+
+D:\X FACTOR CR KARTIK\ASSIGNMENT 1>java Division
+Enter numerator : -234
+Enter denominator : -84
+2

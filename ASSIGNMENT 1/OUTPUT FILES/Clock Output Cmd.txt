@@ -1,0 +1,26 @@
+D:\X FACTOR CR KARTIK\ASSIGNMENT 1>javac clock.java
+
+D:\X FACTOR CR KARTIK\ASSIGNMENT 1>java clock
+Enter hour : 9
+Enter minute : 38
+61.0 degree
+
+D:\X FACTOR CR KARTIK\ASSIGNMENT 1>java clock
+Enter hour : 12
+Enter minute : 30
+165.0 degree
+
+D:\X FACTOR CR KARTIK\ASSIGNMENT 1>java clock
+Enter hour : 7
+Enter minute : 20
+100.0 degree
+
+D:\X FACTOR CR KARTIK\ASSIGNMENT 1>java clock
+Enter hour : 10
+Enter minute : 59
+24.5 degree
+
+D:\X FACTOR CR KARTIK\ASSIGNMENT 1>java clock
+Enter hour : 11
+Enter minute : 50
+55.0 degree

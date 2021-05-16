@@ -1,0 +1,31 @@
+D:\X FACTOR CR KARTIK\ASSIGNMENT 1>javac Tax.java
+
+D:\X FACTOR CR KARTIK\ASSIGNMENT 1>java Calculator
+Enter income
+239274
+Income tax amount is 3927.4
+
+D:\X FACTOR CR KARTIK\ASSIGNMENT 1>java Calculator
+Enter income
+836
+Income tax amount is 0.0
+
+D:\X FACTOR CR KARTIK\ASSIGNMENT 1>java Calculator
+Enter income
+8375853
+Income tax amount is 3150341.2
+
+D:\X FACTOR CR KARTIK\ASSIGNMENT 1>java Calculator
+Enter income
+-83757
+Income tax amount is 0.0
+
+D:\X FACTOR CR KARTIK\ASSIGNMENT 1>java Calculator
+Enter income
+9
+Income tax amount is 0.0
+
+D:\X FACTOR CR KARTIK\ASSIGNMENT 1>java Calculator
+Enter income
+727658385
+Income tax amount is 2.90863354E8
